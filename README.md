@@ -32,6 +32,9 @@ TW Stock News AI Monitor 是一個使用 Flutter 開發的台股新聞AI監控�
 - 明亮 / 暗色 / 跟隨系統外觀
 - 可完整清除已抓取的新聞資料
 
+![image](https://github.com/user-attachments/assets/adc3fa22-2683-47f2-be2b-8c3ab18525e2)  
+  
+![image](https://github.com/user-attachments/assets/36e43dbd-12c2-4850-9741-e22038929d36)
 ---
 
 # 1. 安裝開發環境
