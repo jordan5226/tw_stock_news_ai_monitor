@@ -134,7 +134,7 @@ Desktop development with C++
 使用 Git：
 
 ```powershell
-git clone <repository-url>
+git clone https://github.com/jordan5226/tw_stock_news_ai_monitor.git
 cd tw_stock_news_ai_monitor
 ```
 
