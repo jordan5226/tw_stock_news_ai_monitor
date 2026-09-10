@@ -1,0 +1,3 @@
+Flutter project: tw_stock_news_ai_monitor
+Display name: TW Stock News AI Monitor
+Windows executable: tw_stock_news_ai_monitor.exe

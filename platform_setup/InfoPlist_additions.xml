@@ -1,0 +1,10 @@
+<!-- 加到 ios/Runner/Info.plist 的 <dict> 內 -->
+<key>UIBackgroundModes</key>
+<array>
+    <string>fetch</string>
+</array>
+
+<key>BGTaskSchedulerPermittedIdentifiers</key>
+<array>
+    <string>com.jordanyeh.ctee_monitor.periodic</string>
+</array>

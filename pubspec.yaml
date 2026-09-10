@@ -1,0 +1,26 @@
+name: tw_stock_news_ai_monitor
+description: 台股新聞 AI 監控（工商時報 + MoneyDJ，純本機、無後端）
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.10.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.6.0
+  html: ^0.15.7
+  shared_preferences: ^2.5.5
+  flutter_secure_storage: ^11.0.0
+  flutter_local_notifications: ^22.3.0
+  workmanager: ^0.10.10
+  url_launcher: ^6.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
